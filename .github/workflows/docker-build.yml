@@ -42,4 +42,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: viveksahu26/python-helloworld:latest
+          tags: viveksahu26/python-helloworld:v1.0.0
